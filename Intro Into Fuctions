@@ -1,0 +1,7 @@
+console.log ('Hello, world!")
+function doNothing() {}
+function sayHello() {console.log('Hello')
+}
+function sayHello() {
+  console.log('Hello!')
+}
